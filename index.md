@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# About
+
+This is my personal portfolio. Thank you for taking time to look around.
+
+You can also visit my [ArtStation]([./another-page.html](https://www.artstation.com/kamentechart))
+
+# Index
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
