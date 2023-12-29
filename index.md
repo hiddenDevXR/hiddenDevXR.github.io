@@ -6,10 +6,11 @@ layout: default
 
 This is my personal portfolio. Thank you for taking time to look around.
 
-You can also visit my [ArtStation]([./another-page.html](https://www.artstation.com/kamentechart))
+You can also visit my [ArtStation]([https://www.artstation.com/kamentechart])
 
-# Index
+## TwinMotion
 
+During my Master's program, I began exploring Twinmotion, discovering its versatility in architectural visualization and game design. As I delved into this tool, I found its potential for swiftly prototyping level designs and creating engaging renders. While still in the learning phase, Twinmotion became my playground for merging architectural concepts with game design elements, allowing me to craft immersive visuals and bring my ideas to life.
 
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -19,10 +20,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
