@@ -6,7 +6,7 @@ layout: default
 
 This is my personal portfolio. Thank you for taking time to look around.
 
-You can also visit my [ArtStation]([https://www.artstation.com/kamentechart])
+You can also visit my [ArtStation](https://www.artstation.com/kamentechart)
 
 ## TwinMotion
 
