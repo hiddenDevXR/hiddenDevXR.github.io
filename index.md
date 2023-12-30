@@ -15,6 +15,15 @@ During my Master's program, I began exploring Twinmotion, discovering its versat
 Here, in chronological order, are some of the projects I've worked on using Twinmotion.
 
 <img src="/assets/FA_01.png" alt="lasagna">
+<img src="/assets/FA_02.png" alt="lasagna">
+<img src="/assets/FA_03.png" alt="lasagna">
+<img src="/assets/FD_01.png" alt="lasagna">
+
+* * *
+
+## Computer Graphics
+
+I'm challenging myself to delve into computer graphics programming to enhance my skills as a technical artist. Presently, I'm taking small but significant steps by utilizing OpenTK, a framework that facilitates working with OpenGL through C#. It's early days, but I'm committed to making steady progress and aiming for significant advancements in the coming months.
 
 * * *
 
