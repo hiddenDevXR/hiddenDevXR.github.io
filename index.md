@@ -14,10 +14,7 @@ During my Master's program, I began exploring Twinmotion, discovering its versat
 
 Here, in chronological order, are some of the projects I've worked on using Twinmotion.
 
-<img src="/assets/FA_01.png" alt="lasagna">
-<img src="/assets/FA_02.png" alt="lasagna">
-<img src="/assets/FA_03.png" alt="lasagna">
-<img src="/assets/FD_01.png" alt="lasagna">
+<img src="/assets/FineArtsULL.png">
 
 * * *
 
