@@ -28,9 +28,9 @@ I'm challenging myself to delve into computer graphics programming to enhance my
 
 ## HALO 4 review (2023)
 
-As a part of my Master's Game Design course we made a review of any game we like. I have been playing HALO MCC lately so I wanted to revisit one game that when it came out had mixed recpection but that i loved from day one.
+As part of my Master's in Game Design course, we were tasked with reviewing a game of our choice. Recently, I've been diving back into HALO MCC, a title that initially received mixed reception upon its release but one that I've loved from day one.
 
-Title: "Halo 4: A Surprising Evolution of an Iconic Franchise"
+_My HALO 4 Review_
 
 As a long-time fan of the Halo series, diving into Halo 4 was an experience filled with anticipation and excitement. Developed by 343 Industries, this installment marks a significant change in the saga, both in narrative depth and game dynamics.
 
@@ -48,7 +48,7 @@ In terms of gameplay, Halo 4 successfully retains the essence of what makes the 
 
 Multiplayer, a cornerstone of the Halo franchise, receives an impressive revamp in Halo 4. The revamped multiplayer introduces innovative features, offering diverse maps, engaging game modes, and a robust customization system that encourages replayability and the competitive spirit.
 
-The sound design deserves applause, complementing the visual grandeur with a rich and immersive audio experience. The iconic soundtrack, composed by Neil Davidge, adds emotional depth to the game, enhancing every moment of the journey.
+The sound design deserves applause, complementing the visual grandeur with a rich and immersive audio experience. The iconic soundtrack, composed by Neil Davidge, adds emotional depth to the game, enhancing every moment of the journey. Change this part to mention that Neil Davidge replaces the legendary Martin O Donell and that he manages to preserve distinctive melodic passages from the original soundtrack while also adding his own identity...
 
 However, even though Halo 4 excels in many aspects, it encounters some pacing issues in its campaign, occasionally interrupting the immersive experience.
 
@@ -58,10 +58,6 @@ Rating: 4.5/5 stars
 
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Header 2
 
