@@ -32,11 +32,11 @@ As part of my Master's in Game Design course, we were tasked with reviewing a ga
 
 > _My HALO 4 Review_
 > 
-> As a long-time fan of the Halo series, diving into Halo 4 was an experience filled with anticipation and excitement. Developed by 343 Industries, this > > > > > > installment marks a significant change in the saga, both in narrative depth and game dynamics.
+> As a long-time fan of the Halo series, diving into Halo 4 was an experience filled with anticipation and excitement. Developed by 343 Industries, this installment marks a significant change in the saga, both in narrative depth and game dynamics.
 > 
-> One of the notable aspects is how 343 Industries attempted to infuse their own distinctive style into the franchise. For some fans, this departure from Bungie's > path wasn't exactly what they expected, but it's commendable that 343 took the step to leave their mark on the series rather than strictly sticking to the > > > > established formula.
+> One of the notable aspects is how 343 Industries attempted to infuse their own distinctive style into the franchise. For some fans, this departure from Bungie's path wasn't exactly what they expected, but it's commendable that 343 took the step to leave their mark on the series rather than strictly sticking to the stablished formula.
 > 
-> The most obvious change lies in the gameplay, which appears to have taken inspiration from popular contemporary shooters like Call of Duty. This adjustment > > > could polarize fans, as it leans towards a more modernized style seen in other games. However, it is an understandable attempt to keep up with changing video > > game trends.
+> The most obvious change lies in the gameplay, which appears to have taken inspiration from popular contemporary shooters like Call of Duty. This adjustment > > could polarize fans, as it leans towards a more modernized style seen in other games. However, it is an understandable attempt to keep up with changing video > > game trends.
 > 
 > Introducing the Forerunners and the Didact into the narrative was a brilliant move. It adds layers of depth and mythology to the Halo universe, offering a new > > perspective and expanding the mythos. However, there is a flaw in the execution: the Didact's character development relies heavily on a trilogy of books, > > > > leaving some players disconnected from his in-game arc.
 > 
