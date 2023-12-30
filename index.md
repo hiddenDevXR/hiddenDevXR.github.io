@@ -14,9 +14,11 @@ During my Master's program, I began exploring Twinmotion, discovering its versat
 
 Here, in chronological order, are some of the projects I've worked on using Twinmotion.
 
-![Solar Punk Tenerife](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/kamen-image1.jpg)
+![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_01.png)
+![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_02.png)
+![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_03.png)
 
-sdkofj
+Why!
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
