@@ -14,7 +14,7 @@ During my Master's program, I began exploring Twinmotion, discovering its versat
 
 Here, in chronological order, are some of the projects I've worked on using Twinmotion.
 
-![SolarPunk]([https://guides.github.com/activities/hello-world/branching.png](https://github.com/hiddenDevXR/MDVJ-GameDesign/assets/86928162/a4f7ef72-665e-4e9a-b224-35af592a281e))
+![SolarPunk]([https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/kamen-image1.jpg])
 
 
 
