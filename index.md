@@ -14,9 +14,7 @@ During my Master's program, I began exploring Twinmotion, discovering its versat
 
 Here, in chronological order, are some of the projects I've worked on using Twinmotion.
 
-![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_01.png)
-![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_02.png)
-![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/BAR_03.png)
+![Fine Arts Realistic V1](https://github.com/hiddenDevXR/hiddenDevXR.github.io/blob/main/assets/FA_01.png)
 
 Why!
 
