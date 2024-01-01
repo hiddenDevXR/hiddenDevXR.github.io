@@ -18,6 +18,8 @@ In this blog post, I'll briefly share my insights gained from managing teams in 
 
 Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
 
+Given the small scope of this game, our development team comprised only three members: the project manager, the 3D artist, and myself, the sole developer. Being the lone developer for a VR experience scheduled to launch in just a couple of months was undoubtedly stressful. Yet, I appreciate this team dynamic because it allowed me the freedom to tackle challenges in my own way. For issue tracking, we relied on GitLab, which might not be as user-friendly as tools like Jira or Trello, but it served its purpose well for our small-sized team.
+
 ### Case B: Medium Size Studio and a big size Game
 
 In this production, we had a more structured team setup where each person had a clear role, like parts of a clock coming together. My role as a technical artist involved creating VFX, shaders, and optimizing assets for the game.
