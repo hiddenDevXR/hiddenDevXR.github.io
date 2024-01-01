@@ -12,15 +12,7 @@ In my eight years across different studio sizes and cultures, I've seen how mana
 
 In this blog post, I'll briefly share my insights gained from managing teams in the production of two distinct types of games across separate studio environments.
 
-### Case A: Small Size Studio and small size game
-
-<img src="https://github.com/hiddenDevXR/VRL-Theatres/blob/main/TestRoom_VR/vrl1.PNG">
-
-Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
-
-Given the small scope of this game, our development team comprised only three members: the project manager, the 3D artist, and myself, the sole developer. Being the lone developer for a VR experience scheduled to launch in just a couple of months was undoubtedly stressful. Yet, I appreciate this team dynamic because it allowed me the freedom to tackle challenges in my own way. For issue tracking, we relied on GitLab, which might not be as user-friendly as tools like Jira or Trello, but it served its purpose well for our small-sized team.
-
-### Case B: Medium Size Studio and a big size Game
+### Case A: Medium Size Studio and a big size Game
 
 In this production, we had a more structured team setup where each person had a clear role, like parts of a clock coming together. My role as a technical artist involved creating VFX, shaders, and optimizing assets for the game.
 
@@ -29,6 +21,16 @@ We kept in touch with clients through Slack and used Google Teams for our team d
 We managed the project using Atlassian's Jira and followed the scrum sprint setup. Honestly, I found this approach really comfortable because it gave me specific tasks (or 'tickets') to focus on and resolve. With Jira's ticket system and priority tags, I had a clear view of what I needed to do and who I needed to talk to if I hit any roadblocks or needed some guidance.
 
 The daily standup meetings, where we shared our previous day's progress, outlined our daily objectives, and discussed any arising issues, were something I wasn't particularly fond of. However, I've come to see their significance, especially for fully remote teams like ours. They were a necessary part of keeping track of each team member's progress, fostering team communication, and ensuring everyone was doing alright, despite the distance.
+
+### Case B: Medium Size Studio and small size game
+
+<img src="https://github.com/hiddenDevXR/VRL-Theatres/blob/main/TestRoom_VR/vrl1.PNG">
+
+Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
+
+Given the small scope of this game, our development team comprised only three members: the project manager, the 3D artist, and myself, the sole developer. Being the lone developer for a VR experience scheduled to launch in just a couple of months was undoubtedly stressful. Yet, I appreciate this team dynamic because it allowed me the freedom to tackle challenges in my own way. For issue tracking, we relied on GitLab, which might not be as user-friendly as tools like Jira or Trello, but it served its purpose well for our small-sized team.
+
+It's worth noting that although our team was small, the studio itself could be considered medium-sized and boasted a well-structured internal setup. With several teams concurrently handling multiple projects, our team operated more like a specialized task force. What I particularly enjoyed about this dynamic was the occasional interaction with members from other studio teams, each bringing diverse backgrounds in fields like architecture, psychology, mathematics, fine arts, and more. This blend of expertise added a unique flavor to our collaborative atmosphere.
 
 * * *
 
