@@ -16,7 +16,11 @@ In this blog post, I'll briefly share my insights gained from managing teams in 
 
 In this production, we had a more structured team setup where each person had a clear role, like parts of a clock coming together. My role as a technical artist involved creating VFX, shaders, and optimizing assets for the game.
 
-We managed the project using Atlassian's Jira and followed the scrum sprint setup. Honestly, I found this approach really comfortable because it gave me specific tasks (or 'tickets') to focus on and resolve. With Jira's ticket system and priority tags, I had a clear view of what I needed to do and who I needed to talk to if I hit any roadblocks or needed some guidance
+We kept in touch with clients through Slack and used Google Teams for our team discussions. Inside Google Teams, we had different channels—like one for the overall project, another for engineers, and one just for artists. This split helped us avoid cluttering everyone's feed with stuff that wasn't relevant to them. For instance, artists didn't have to worry about technical hiccups; they could focus on their creative work without getting tangled in code issues or server mishaps.
+
+We managed the project using Atlassian's Jira and followed the scrum sprint setup. Honestly, I found this approach really comfortable because it gave me specific tasks (or 'tickets') to focus on and resolve. With Jira's ticket system and priority tags, I had a clear view of what I needed to do and who I needed to talk to if I hit any roadblocks or needed some guidance.
+
+The daily standup meetings, where we shared our previous day's progress, outlined our daily objectives, and discussed any arising issues, were something I wasn't particularly fond of. However, I've come to see their significance, especially for fully remote teams like ours. They were a necessary part of keeping track of each team member's progress, fostering team communication, and ensuring everyone was doing alright, despite the distance.
 
 * * *
 
