@@ -6,13 +6,17 @@ permalink: /blog
 
 [Home](https://hiddendevxr.github.io/)
 
-## About team management in indie game dev
+## About team management in "indie" game dev
 
 In my eight years across different studio sizes and cultures, I've seen how management styles vary based on the game type and studio culture. From smaller teams crafting niche experiences to larger studios chasing mainstream success, the approach to team management is as diverse as the games they create. This exploration delves into the pivotal role team management plays in the dynamic realm of indie game development, where talent, strategy, and studio ethos converge to shape a game's destiny.
 
 In this blog post, I'll briefly share my insights gained from managing teams in the production of two distinct types of games across separate studio environments.
 
-### Case 2: Medium Size Studio and a big size Game
+### Case A: Small Size Studio and small size game
+
+Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
+
+### Case B: Medium Size Studio and a big size Game
 
 In this production, we had a more structured team setup where each person had a clear role, like parts of a clock coming together. My role as a technical artist involved creating VFX, shaders, and optimizing assets for the game.
 
