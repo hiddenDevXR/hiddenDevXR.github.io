@@ -14,7 +14,7 @@ In this blog post, I'll briefly share my insights gained from managing teams in 
 
 ### Case A: Small Size Studio and small size game
 
-<img src="[/assets/FineArtsULL.png](https://github.com/hiddenDevXR/VRL-Theatres/blob/main/TestRoom_VR/vrl1.PNG)">
+<img src="https://github.com/hiddenDevXR/VRL-Theatres/blob/main/TestRoom_VR/vrl1.PNG">
 
 Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
 
