@@ -1,6 +1,8 @@
+---
 layout: default
 title: "Blog"
 permalink: /blog
+---
 
 ## HALO 4 review (2023)
 
