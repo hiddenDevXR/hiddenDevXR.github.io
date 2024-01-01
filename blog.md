@@ -24,7 +24,7 @@ The daily standup meetings, where we shared our previous day's progress, outline
 
 ### Case B: Medium Size Studio and small size game
 
-<img src="/assets/vrl1.PNG">
+<img src="/assets/vrl1.png">
 
 Alright, this wasn't your typical video game per se. It was more of an interactive experience designed for the Tieranatomisches Theatre in Berlin. However, I'll refer to it as a game because we utilized game development technology like Unity and gaming hardware such as the Oculus Quest. Plus, the experience was enjoyable to interact with and experiment using game-like features.
 
