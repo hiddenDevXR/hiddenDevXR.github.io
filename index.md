@@ -24,6 +24,8 @@ Here, in chronological order, are some of the projects I've worked on using Twin
 
 I'm challenging myself to delve into computer graphics programming to enhance my skills as a technical artist. Presently, I'm taking small but significant steps by utilizing OpenTK, a framework that facilitates working with OpenGL through C#. It's early days, but I'm committed to making steady progress and aiming for significant advancements in the coming months.
 
+<img src="/assets/opentk.png">
+
 * * *
 
 ## HALO 4 review (2023)
