@@ -9,6 +9,8 @@ Thank you for taking time to look around.
 
 You can also visit my [ArtStation](https://www.artstation.com/kamentechart)
 
+[Blog](https://hiddendevxr.github.io/blog)
+
 ## TwinMotion
 
 During my Master's program, I began exploring Twinmotion, discovering its versatility in architectural visualization and game design. As I delved into this tool, I found its potential for swiftly prototyping level designs and creating engaging renders. While still in the learning phase, Twinmotion became my playground for merging architectural concepts with game design elements, allowing me to craft immersive visuals and bring my ideas to life.
