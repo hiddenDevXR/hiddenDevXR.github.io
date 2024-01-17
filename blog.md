@@ -10,6 +10,7 @@ permalink: /blog
 
 [17/01/2024]
 
+![Screenshot 2024-01-17 193910](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/0c45f129-ea79-408d-bef9-ef467b280d57)
 
 For the final project in the "Artificial Intelligence in Video Games" course, we were tasked with creating a prototype that employs the Goal-Oriented Action Planning (GOAP) system. For this project, I aimed to implement an "automated" farm system using Unity. The core concept was as follows:
 
@@ -67,6 +68,13 @@ The harvest bot retained its behavior as per the initial design. It had three su
         Invoke("EmptyBattery", Random.Range(10, 20));
     }
 ```
+![harves bot](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/d3372135-4694-408b-b534-47476af43458)
+
+The watering bot operates similarly to the harvest bot. It waters the crops when they are dry and returns to the pond to get more water afterward. It can deviate from its current target if it detects a fire arising in the field. Due to the higher weight assigned to the fire hazard state, the watering drone prioritizes addressing this goal.
+
+![Screenshot 2024-01-17 231431](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/306a822e-7615-4bbd-ad8a-437ba623cec7)
+
+The 
 
 https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/f8e2d963-4747-4330-8f37-54d830471c66
 
