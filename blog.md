@@ -48,6 +48,14 @@ However, as I commenced the prototype development, I decided to replace the secu
 
 ![GOAP Diagrama](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/eba64dc3-b2a9-4f16-b10f-5d2a53ac0422)
 
+The _Harvest Bot_ 
+
+```c#
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/f8e2d963-4747-4330-8f37-54d830471c66
 
