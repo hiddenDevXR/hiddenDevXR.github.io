@@ -12,42 +12,36 @@ permalink: /blog
 For the final project in the "Artificial Intelligence in Video Games" course, we were tasked with creating a prototype that employs the Goal-Oriented Action Planning (GOAP) system. For this project, I aimed to implement an "automated" farm system using Unity. The core concept was as follows:
 
 > Theme: Cooperative Farming Robots
-
+>
 > In this scenario, you we a farm with three simple AI agents responsible for different tasks to ensure the success of the farm. The goal is to make farming operations efficient and collaborative.
-
+>
 > Agents:
-
+>
 > Harvester Bot:
 > Specialized in harvesting crops.
 > Actions include picking ripe crops, clearing fields, and depositing harvested crops.
-
+>
 > Watering Drone:
 > Responsible for managing irrigation and watering crops.
 > Actions involve checking soil moisture, watering crops, and adjusting irrigation systems.
-
+>
 > Security Scarecrow AI:
-
+>
 > Tasked with scaring away pests and ensuring the safety of crops.
 > Actions include patrolling fields, shooing away pests, and alerting other agents in case of a threat.
-
+>
 > Actions:
-
+>
 > Harvester Bot action: Identifying and harvesting ripe crops.
-
 > Watering Drone action: Checking soil moisture levels and watering crops as needed.
-Patrol Fields:
-
 > Security Scarecrow AI action: Patrolling fields to scare away pests and ensure crop safety.
-Emergency Response:
-
+>
+> Emergency Response:
 > All agents collaboration: Responding to unexpected events, such as a sudden pest infestation or adverse weather conditions.
-
 > Resource Sharing:
-
 > Coordination between Harvester Bot and Watering Drone: Sharing information about crop status and water needs for efficient resource allocation.
-
 > Harvester Bot action: Clearing fields of leftover plant debris for better cultivation.
-> This simplified theme keeps the tasks and actions straightforward, focusing on the collaboration between the agents to run a successful farm. It should be easier to implement while still providing opportunities for interesting interactions and goal-oriented planning.
+> 
 
 * * *
 [Home](https://hiddendevxr.github.io/)
