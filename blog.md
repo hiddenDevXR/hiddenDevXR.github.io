@@ -128,6 +128,9 @@ By modifying the world state to 1, the vendor bot communicates to the client age
 ```
 
 
+Overall, the project functioned as intended. I encountered some difficulties while implementing the client system, as they occasionally exhibited erratic behavior. One notable bug was that they repeatedly returned to the "place order" state, continuously increasing the order count without stopping. I am committed to further improving this project, as I am intrigued by the concept of a farm tycoon game where users can deploy adorable robots to manage their farm efficiently.
+
+I believe the Goal-Oriented Action Planning (GOAP) system is a fantastic approach that facilitates more natural behaviors for agents in video games. Although I had heard of it before, this project marked my first practical application of the system. I recognize the need to delve deeper and practice more to refine my understanding, especially when it comes to deciphering how agents decide on their current behavior. Continuous exploration and hands-on experience will undoubtedly enhance my proficiency in implementing and leveraging the GOAP system in future projects.
 
 https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/f8e2d963-4747-4330-8f37-54d830471c66
 
