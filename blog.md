@@ -48,13 +48,24 @@ However, as I commenced the prototype development, I decided to replace the secu
 
 ![GOAP Diagrama](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/eba64dc3-b2a9-4f16-b10f-5d2a53ac0422)
 
-The _Harvest Bot_ 
+The harvest bot retained its behavior as per the initial design. It had three subgoals: checking if the crop was ready for harvest, delivering the harvested crops to the processing container, and recharging its battery whenever it was running low on energy. To determine if the crops were ready, the harvest bot needed to check in at a "computer" near the field. The crops were considered "ripe" once they were watered by the watering drone. After the harvest bot collected the crops, the crop object transitioned to a "crop dry state," signaling to the watering drone through a world state that they required water.
 
 ```c#
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+    void Start()
+    {
+        base.Start();
+
+        SubGoal s0 = new SubGoal("cropsChecked", 1, false);
+        goals.Add(s0, 2);
+
+        SubGoal s1 = new SubGoal("deliver", 1, false);
+        goals.Add(s1, 3);
+
+        SubGoal s2 = new SubGoal("recharged", 1, false);
+        goals.Add(s2, 4);
+
+        Invoke("EmptyBattery", Random.Range(10, 20));
+    }
 ```
 
 https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/f8e2d963-4747-4330-8f37-54d830471c66
