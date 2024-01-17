@@ -4,6 +4,8 @@ title: "Blog"
 permalink: /blog
 ---
 
+[Home](https://hiddendevxr.github.io/)
+
 ## GOAP System for a "Automated" Farm in Unity
 
 [17/01/2024]
@@ -44,7 +46,6 @@ For the final project in the "Artificial Intelligence in Video Games" course, we
 > 
 
 * * *
-[Home](https://hiddendevxr.github.io/)
 
 ## About team management in "indie" game dev
 
