@@ -72,9 +72,62 @@ The harvest bot retained its behavior as per the initial design. It had three su
 
 The watering bot operates similarly to the harvest bot. It waters the crops when they are dry and returns to the pond to get more water afterward. It can deviate from its current target if it detects a fire arising in the field. Due to the higher weight assigned to the fire hazard state, the watering drone prioritizes addressing this goal.
 
+```c#
+public class PutFireDown : GAction
+{
+    public GameObject smokeVFX;
+
+    public override bool PrePerform()
+    {
+
+        return true;
+    }
+
+    public override bool PostPerform()
+    {
+        beliefs.RemoveState("cropsOnFire");
+        smokeVFX.SetActive(false);
+        return true;
+    }
+}
+```
+
 ![Screenshot 2024-01-17 231431](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/306a822e-7615-4bbd-ad8a-437ba623cec7)
 
-The 
+The vendor bot interacts with the harvest bot by waiting for new crops to arrive at the processing plant and with the client agent by waiting for orders. When clients arrive at the store, they place an order. Once the vendor receives an order and there's an available crop, it goes to the processing plant, collects the crop, and delivers it to the counter for the client.
+
+```c#
+public class SellCrop : GAction
+{
+    public GameObject crop;
+
+    public override bool PrePerform()
+    {
+        return true;
+    }
+
+    public override bool PostPerform()
+    {
+        GWorld.Instance.GetWorld().ModifyState("orderReady", 1);
+        crop.SetActive(false);
+        return true;
+    }
+}
+```
+
+By modifying the world state to 1, the vendor bot communicates to the client agent that the order is ready and available for pickup at the counter. Once this action is completed, the client exits the store.
+
+```c#
+    public override bool PostPerform()
+    {
+        beliefs.GetStates().Clear();
+        GWorld.Instance.GetWorld().ModifyState("orderReady", -1);
+        Destroy(gameObject);
+        return true;
+    }
+```
+
+
 
 https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/f8e2d963-4747-4330-8f37-54d830471c66
 
