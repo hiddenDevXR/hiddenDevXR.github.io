@@ -43,7 +43,10 @@ For the final project in the "Artificial Intelligence in Video Games" course, we
 > Resource Sharing:
 > Coordination between Harvester Bot and Watering Drone: Sharing information about crop status and water needs for efficient resource allocation.
 > Harvester Bot action: Clearing fields of leftover plant debris for better cultivation.
-> 
+
+However, as I commenced the prototype development, I decided to replace the security scarecrow with two additional agents: a vendor bot with the primary objective of selling processed crops and a client.
+
+![GOAP Diagrama](https://github.com/hiddenDevXR/hiddenDevXR.github.io/assets/86928162/eba64dc3-b2a9-4f16-b10f-5d2a53ac0422)
 
 * * *
 
