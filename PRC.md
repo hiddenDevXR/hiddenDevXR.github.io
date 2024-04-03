@@ -14,7 +14,7 @@ permalink: /games
 - Hardarware: PC.
 - Unity version 2022.3.15f1 or higher.
 
-[Project Download](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame)
+https://github.com/hiddenDevXR/MDVJ-FundamentalsGame
 
 ## Story
 
