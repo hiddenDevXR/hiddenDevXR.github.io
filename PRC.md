@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pop Rush Crisis"
+permalink: /games
+---
+
 # Game Development Fundamentals Project
 
 ## Pop Rush Crisis
