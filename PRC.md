@@ -14,7 +14,7 @@ permalink: /games
 - Hardarware: PC.
 - Unity version 2022.3.15f1 or higher.
 
-[Download project](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame)
+[Download project](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame/blob/main/PRC_Game.zip)
 
 ## Story
 
