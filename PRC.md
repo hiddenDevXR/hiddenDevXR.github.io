@@ -15,6 +15,9 @@ permalink: /games
 - Unity version 2022.3.15f1 or higher.
 
 [Download project](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame/blob/main/PRC_Game.zip)
+[Play on your browser](https://play.unity.com/mg/other/pop-rush-crisis)
+
+
 
 ## Story
 
