@@ -6,6 +6,35 @@ permalink: /blog
 
 [Home](https://hiddendevxr.github.io/)
 
+## TFM
+![Screenshot 2024-06-11 182902](https://github.com/user-attachments/assets/d2fed511-afd3-4b8e-a10b-c078c4a76782)
+
+Exploring History Through VR: A Journey to 16th Century San Cristóbal de La Laguna
+
+For my master’s thesis, I embarked on an exciting journey to bridge the gap between history and modern technology. Titled "VR Prototype Set in San Cristóbal de La Laguna City in the 16th Century," my project aimed to create an immersive experience that allows users to explore the rich historical tapestry of this UNESCO World Heritage site.
+
+The Vision
+The core of my thesis was to develop a VR prototype where players can step back in time to the 16th century and wander through San Cristóbal de La Laguna, specifically focusing on Plaza del Adelantado. This historical square, with its vibrant market and the serene San Francisco Convent, serves as the main stage for the virtual exploration.
+
+Interactive Exploration
+In the prototype, players can move around the meticulously recreated market and convent, interacting with various characters to receive missions. These interactions are designed to provide a deeper understanding of the daily life, culture, and socio-economic dynamics of the era. The missions are crafted to be educational, engaging players in tasks that reveal historical facts and anecdotes about the city.
+
+Enhancing Visual Fidelity
+A significant part of my work focused on the visual aspects of the prototype. Utilizing advanced tech art techniques, I enhanced the quality of the visuals to create a more believable and immersive environment. Here’s a breakdown of the techniques employed:
+
+![Screenshot 2024-06-11 174315](https://github.com/user-attachments/assets/f7286bf3-b287-44ba-a020-f904f0da0141)
+
+
+Skyboxes: I used high-quality skyboxes to simulate realistic skies, which contribute significantly to the overall ambiance of the virtual world.
+New Materials: By incorporating PBR (Physically Based Rendering) materials, I ensured that surfaces react to light in a realistic manner, adding depth and authenticity to the environment.
+Level Design: Careful planning and execution of level design were crucial to guide the player's journey through the city, ensuring a seamless and engaging exploration experience.
+Terrain Modeling and Painting: Detailed terrain modeling and painting were essential to accurately depict the historical landscape, from cobblestone streets to the lush greenery of the surroundings.
+Challenges and Learnings
+Throughout the project, I faced several challenges, particularly in balancing historical accuracy with technical limitations. One major hurdle was ensuring that the VR experience was accessible and smooth for users, without compromising on the quality of visuals and interactions. This involved iterative testing and optimization, as well as seeking feedback from peers and experts in both history and virtual reality.
+
+![Screenshot 2024-06-18 134334](https://github.com/user-attachments/assets/7a71724b-5157-4c8f-99cb-a0cf91c917ee)
+
+
 ## GOAP System for a "Automated" Farm in Unity
 
 [17/01/2024]
